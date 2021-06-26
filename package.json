@@ -171,7 +171,7 @@
         "parsimmon": "^1.16.0",
         "pirates": "^3.0.2",
         "pkg-dir": "^4.2.0",
-        "postcss": "^8.2.8",
+        "postcss": "^8.2.10",
         "pretty-bytes": "^5.4.1",
         "prettyjson": "^1.2.1",
         "promise-retry": "^1.1.1",
