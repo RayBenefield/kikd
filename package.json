@@ -165,7 +165,7 @@
         "minimatch": "^3.0.4",
         "minimist": "^1.2.5",
         "node-range": "^0.1.0",
-        "node-sass": "^5.0.0",
+        "node-sass": "^6.0.1",
         "node-wick": "^4.0.3",
         "open": "^7.3.0",
         "parsimmon": "^1.16.0",
